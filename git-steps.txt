@@ -1,0 +1,7 @@
+git init
+
+# save change happened to file
+git add {file name}
+
+# save changes to all 
+git add . 
