@@ -16,3 +16,24 @@ git log
 git check {hash}
 
 
+# save it to github 
+git remote add orgain {the url} 
+
+# push it 
+git push -u orgain {the branch name} 
+
+# see ur branch 
+git branch 
+
+# change the name of the branch 
+git -m {old branch name} {new branch name}
+
+# make new branch and switch to it 
+git checkout -b new-branch 
+
+# push to a new-brach
+git push origin new-branch 
+
+# pull from github 
+git pull origin {branch name} 
+
