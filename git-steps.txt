@@ -5,3 +5,14 @@ git add {file name}
 
 # save changes to all 
 git add . 
+
+# acutaly save 
+git commit -m 'message' 
+
+# see log
+git log
+
+# go back in time 
+git check {hash}
+
+
