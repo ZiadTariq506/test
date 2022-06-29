@@ -1,7 +1,13 @@
 git init
 
+# but them in ready mode
+
 # save change happened to file
 git add {file name}
 
 # save changes to all 
 git add . 
+
+# commit them ( take what ever in the ready mode and save them )
+
+git commit -m 'meassage' 
