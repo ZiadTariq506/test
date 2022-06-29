@@ -11,3 +11,9 @@ git add .
 # commit them ( take what ever in the ready mode and save them )
 
 git commit -m 'meassage' 
+
+# see logs 
+
+git log
+
+
